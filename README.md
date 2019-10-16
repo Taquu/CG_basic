@@ -1,2 +1,4 @@
 # CG_basic
-CG基礎
+| No_ | Problem |
+|:---:|:---|
+|No_3 |Teapot Merry Go Round |
